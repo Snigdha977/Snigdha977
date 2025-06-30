@@ -7,6 +7,16 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
 website:https://glistening-scone-1d82fd.netlify.app/
+### 🛠 Tech Stack
+![HTML](https://img.shields.io/badge/-HTML5-orange?logo=html5)
+![CSS](https://img.shields.io/badge/-CSS3-blue?logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript)
+![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js)
+![React](https://img.shields.io/badge/-React-black?logo=react)
+![MongoDB](https://img.shields.io/badge/-MongoDB-green?logo=mongodb)
+![Tailwind](https://img.shields.io/badge/-TailwindCSS-teal?logo=tailwind-css)
+
+---
 <!---
 Snigdha977/Snigdha977 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
