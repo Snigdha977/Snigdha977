@@ -5,7 +5,6 @@
 - 💞️ I’m looking to collaborate on an internship opportunity but unable to do so due to lack of experience
 - 📫 How to reach me : email: snigdhasaha.student@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
 website:https://glistening-scone-1d82fd.netlify.app/
 ---
 ### Internship:
