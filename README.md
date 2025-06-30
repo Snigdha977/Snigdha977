@@ -6,7 +6,7 @@
 - 📫 How to reach me : email: snigdhasaha.student@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
-
+website:https://glistening-scone-1d82fd.netlify.app/
 <!---
 Snigdha977/Snigdha977 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
