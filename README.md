@@ -8,7 +8,8 @@
 - ⚡ Fun fact: ...
 website:https://glistening-scone-1d82fd.netlify.app/
 ---
-💼 MERN Stack & Full Stack Intern @ [Zidio Development](https://zidiodevelopment.com)
+### Internship:
+💼 MERN Stack & Full Stack Intern @ [Zidio Development](https://www.zidio.in/)
 🔧 Assisting in full-stack web development, feature implementation, and real-world deployment (Present – 2025)
 
 ### 📚 Currently Learning
