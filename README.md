@@ -9,8 +9,11 @@
 website: https://glistening-scone-1d82fd.netlify.app/
 ---
 ### Internship:
+Python development intern @[Navodita Infotech ](https://www.bing.com/ck/a?!&&p=e6430ead89a1667b94e26ac08bd879225a68b29cbe6286cee7ef0df9c56a9b8aJmltdHM9MTc2MTAwNDgwMA&ptn=3&ver=2&hsh=4&fclid=2b71cff1-4130-6dde-31c1-d9f8409d6c6e&psq=navodita+infotech&u=a1aHR0cHM6Ly9uYXZvZGl0YWluZm90ZWNoLmNvbS8)
+Working on a python full stack project , Personal finance tracker (currently ongoing)
+
 💼 MERN Stack & Full Stack Intern @ [Zidio Development](https://www.zidio.in/)
-🔧 Assisting in full-stack web development, feature implementation, and real-world deployment (Present – 2025)
+🔧 Assisting in full-stack web development, feature implementation, and real-world deployment (july 2025-sept  2025)
 
 ### 📚 Currently Learning
 
